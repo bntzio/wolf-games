@@ -1,0 +1,9 @@
+{
+  "name": "wolf-games",
+  "version": "0.1.0",
+  "description": "wolf games site",
+  "main": "index.js",
+  "repository": "git@github.com:bntzio/wolf-games.git",
+  "author": "Enrique Benitez <hello@bntz.io>",
+  "license": "MIT"
+}
